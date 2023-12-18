@@ -1,3 +1,4 @@
+
 import "./Desktop1.css";
 import { useState } from "react";
 import Container from "react-bootstrap/Container";
@@ -123,7 +124,7 @@ const Desktop1 = () => {
               onClick={handleSendButtonClick}
             />
           </Link>
-          
+
         </div>
       </div>
       {/* /// End input section  */}
