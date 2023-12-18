@@ -1,0 +1,199 @@
+.black-and-white-globe-y2k-stre {
+  position: absolute;
+  top: 0;
+  left: 0;
+  width: 201px;
+  height: 232px;
+  object-fit: cover;
+}
+.black-and-white-globe-y2k-stre-wrapper {
+  position: absolute;
+  top: 0;
+  left: 26px;
+  background: linear-gradient(
+    180deg,
+    rgba(119, 119, 119, 0.28),
+    rgba(255, 255, 255, 0)
+  );
+  width: 940px;
+  height: 232px;
+  overflow: hidden;
+}
+.frame {
+  position: absolute;
+  top: 562px;
+  left: 237px;
+  width: 966px;
+  height: 232px;
+  overflow: hidden;
+}
+.transforming-ideas-into {
+  position: absolute;
+  top: 562px;
+  left: 464px;
+  letter-spacing: 0.02em;
+  display: inline-block;
+  width: 739px;
+  height: 211px;
+}
+.frame-child {
+  position: absolute;
+  top: 0;
+  left: 0;
+  background-color: var(--color-darkslategray-200);
+  width: 1840px;
+  height: 130px;
+  overflow: hidden;
+}
+.black-and-white-globe-y2k-stre1,
+.download-1-1 {
+  position: absolute;
+  top: 0;
+  left: 0;
+  width: 207px;
+  height: 130px;
+  object-fit: cover;
+}
+.download-1-1 {
+  top: 65px;
+  left: 1310px;
+  width: 66px;
+  height: 65px;
+}
+.frame1 {
+  position: absolute;
+  top: 0;
+  left: 0;
+  width: 1840px;
+  height: 130px;
+  overflow: hidden;
+}
+.frame3,
+.welcome-to-az {
+  top: 0;
+  width: 938px;
+  height: 163px;
+}
+.welcome-to-az {
+  position: absolute;
+  left: 0;
+  letter-spacing: 0.02em;
+  background: linear-gradient(
+      180deg,
+      rgba(255, 255, 255, 0.19),
+      rgba(156, 59, 59, 0)
+    ),
+    linear-gradient(#d94fd5, #d94fd5), linear-gradient(#5c24ff, #5c24ff),
+    linear-gradient(#ecbfbf, #ecbfbf), #ff3bff;
+  -webkit-background-clip: text;
+  -webkit-text-fill-color: transparent;
+  display: inline-block;
+  text-shadow: 0 4px 4px rgba(0, 0, 0, 0.25);
+}
+.frame3 {
+  left: 28px;
+}
+.frame-item,
+.frame2,
+.frame3 {
+  position: absolute;
+  overflow: hidden;
+}
+.frame2 {
+  top: 322px;
+  left: 237px;
+  width: 966px;
+  height: 163px;
+  font-size: var(--font-size-61xl);
+}
+.frame-item {
+  top: 0;
+  left: 0;
+  background-color: var(--color-darkslategray-100);
+  width: 1000px;
+  height: 78px;
+}
+.message-az-openai {
+  position: absolute;
+  top: 0px;
+  left: 0;
+  /* letter-spacing: 0.02em; */
+  /* display: inline-block; */
+  /* width: 524px; */
+  /* height: 12px; */
+  /* letter-spacing: 0.02em; Added a semicolon here */
+  
+}
+/*  */
+
+.message-az-openai input {
+  position: absolute;
+  top: 0px;
+  left: 0;
+  letter-spacing: 0.05em; 
+  display: inline-block;
+  width: 1002px;
+  height: 80px;
+  background-color: #878787;
+  background-color: #352F2F;
+  font-size: 30px;
+  color: #ffffff;
+
+}
+
+
+.download-2-1 {
+  position: absolute;
+  top: 12px;
+  left: 1031px;
+  width: 84px;
+  height: 55px;
+  object-fit: cover;
+}
+.download-2-2,
+.frame4,
+.frame5 {
+  position: absolute;
+  top: 0;
+  height: 78px;
+}
+.download-2-2 {
+  left: 1031px;
+  width: 84px;
+  object-fit: cover;
+}
+.frame4,
+.frame5 {
+  left: 131px;
+  width: 1115px;
+  overflow: hidden;
+}
+.frame4 {
+  top: 873px;
+  left: 97px;
+  width: 1246px;
+  font-size: var(--font-size-11xl);
+  color: var(--color-gray-100);
+}
+.az-openai-can {
+  position: absolute;
+  top: 979px;
+  left: 237px;
+  font-size: var(--font-size-xl);
+  letter-spacing: 0.02em;
+  text-align: center;
+  display: inline-block;
+  width: 1005px;
+  height: 23px;
+}
+.desktop-1 {
+  position: relative;
+  background-color: var(--color-black);
+  width: 100%;
+  height: 1024px;
+  overflow: hidden;
+  text-align: left;
+  font-size: var(--font-size-31xl);
+  color: var(--color-gray-200);
+  font-family: var(--font-inter);
+}
